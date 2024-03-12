@@ -1,6 +1,6 @@
-###Découverte Redis
+### Découverte Redis
 
-##Redis
+## Redis
 
 => Découverte du fonctionnement de Redis depuis une application nodeJS
 
